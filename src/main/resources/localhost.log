@@ -1,0 +1,83 @@
+2024-12-18 09:00:49,367 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 09:00:49,533 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.077s)
+2024-12-18 09:00:49,554 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 09:00:49,559 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 09:00:49,574 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 09:01:14,083 [http-nio-8080-exec-10] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 09:01:27,730 [http-nio-8080-exec-2] DEBUG com.heartoftatarstan.servlets.LoginServlet- User ilshat3092005@gmail.com logged in
+2024-12-18 09:08:46,459 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 09:08:46,589 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.066s)
+2024-12-18 09:08:46,616 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 09:08:46,620 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 09:08:46,637 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 09:08:53,310 [http-nio-8080-exec-8] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 09:09:05,768 [http-nio-8080-exec-9] DEBUG com.heartoftatarstan.servlets.LoginServlet- User ilshat3092005@gmail.com logged in
+2024-12-18 10:45:40,009 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 10:45:40,161 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.080s)
+2024-12-18 10:45:40,186 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 10:45:40,192 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 10:45:40,209 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 10:48:06,240 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 10:48:06,394 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.084s)
+2024-12-18 10:48:06,421 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 10:48:06,426 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 10:48:06,441 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 10:50:16,308 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 10:50:16,454 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.073s)
+2024-12-18 10:50:16,480 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 10:50:16,484 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 10:50:16,501 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 10:53:00,895 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 10:53:01,051 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.075s)
+2024-12-18 10:53:01,077 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 10:53:01,081 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 10:53:01,097 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 10:54:08,775 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 10:54:08,927 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.082s)
+2024-12-18 10:54:08,948 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 10:54:08,951 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 10:54:08,965 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 10:57:10,202 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 10:57:10,341 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.074s)
+2024-12-18 10:57:10,371 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 10:57:10,376 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 10:57:10,393 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 11:01:34,139 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 11:01:34,264 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.071s)
+2024-12-18 11:01:34,288 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 11:01:34,294 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 11:01:34,311 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 11:02:39,235 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 11:02:39,373 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.075s)
+2024-12-18 11:02:39,403 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 11:02:39,407 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 11:02:39,427 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 11:03:46,426 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 11:03:46,569 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.076s)
+2024-12-18 11:03:46,597 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 11:03:46,602 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 11:03:46,622 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 11:04:39,324 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 11:04:39,494 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.087s)
+2024-12-18 11:04:39,521 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 11:04:39,527 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 11:04:39,546 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 11:04:47,168 [http-nio-8080-exec-7] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 11:08:04,567 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 11:08:04,722 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.079s)
+2024-12-18 11:08:04,751 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 11:08:04,755 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 11:08:04,772 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 11:10:02,407 [http-nio-8080-exec-8] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 11:10:09,722 [http-nio-8080-exec-1] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 11:10:16,209 [http-nio-8080-exec-2] DEBUG com.heartoftatarstan.servlets.LoginServlet- User ilshat3092005@gmail.com logged in
+2024-12-18 14:32:06,073 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-18 14:32:06,264 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 4 migrations (execution time 00:00.091s)
+2024-12-18 14:32:06,285 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 4
+2024-12-18 14:32:06,289 [RMI TCP Connection(2)-127.0.0.1] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-18 14:32:06,308 [RMI TCP Connection(2)-127.0.0.1] INFO  com.heartoftatarstan.listeners.ContextListener- Database connection pool initialized.
+2024-12-18 14:33:11,030 [http-nio-8080-exec-5] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 14:33:16,673 [http-nio-8080-exec-7] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 14:33:24,192 [http-nio-8080-exec-9] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 14:34:56,749 [http-nio-8080-exec-5] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-18 14:35:15,426 [http-nio-8080-exec-6] DEBUG com.heartoftatarstan.servlets.LoginServlet- User gg@gmail.com logged in

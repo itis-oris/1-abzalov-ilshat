@@ -1,0 +1,119 @@
+2024-12-11 08:44:35,761 [RMI TCP Connection(2)-127.0.0.1] DEBUG com.heartoftatarstan.listeners.ContextListener- Context initialized
+2024-12-11 08:44:36,395 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=1, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 08:44:36,395 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=2, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 08:44:36,395 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=3, name='Стандарт', capacity=2, price=3000.0}
+2024-12-11 08:44:36,396 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=4, name='Семейный', capacity=4, price=5000.0}
+2024-12-11 08:44:36,396 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=6, name='Апартаменты', capacity=5, price=10000.0}
+2024-12-11 08:44:37,832 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=1, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 08:44:37,832 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=2, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 08:44:37,833 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=3, name='Стандарт', capacity=2, price=3000.0}
+2024-12-11 08:44:37,833 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=4, name='Семейный', capacity=4, price=5000.0}
+2024-12-11 08:44:37,833 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=6, name='Апартаменты', capacity=5, price=10000.0}
+2024-12-11 08:44:39,277 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=1, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 08:44:39,277 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=2, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 08:44:39,277 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=3, name='Стандарт', capacity=2, price=3000.0}
+2024-12-11 08:44:39,277 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=4, name='Семейный', capacity=4, price=5000.0}
+2024-12-11 08:44:39,277 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=6, name='Апартаменты', capacity=5, price=10000.0}
+2024-12-11 08:48:17,932 [http-nio-8080-exec-6] DEBUG com.heartoftatarstan.servlets.LoginServlet- Открыта страница Login
+2024-12-11 08:48:34,899 [http-nio-8080-exec-5] DEBUG com.heartoftatarstan.servlets.LoginServlet- User govnoebanoe@mail.ru logged in
+2024-12-11 08:48:44,499 [http-nio-8080-exec-9] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=1, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 08:48:44,499 [http-nio-8080-exec-9] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=2, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 08:48:44,499 [http-nio-8080-exec-9] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=3, name='Стандарт', capacity=2, price=3000.0}
+2024-12-11 08:48:44,499 [http-nio-8080-exec-9] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=4, name='Семейный', capacity=4, price=5000.0}
+2024-12-11 08:48:44,499 [http-nio-8080-exec-9] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=6, name='Апартаменты', capacity=5, price=10000.0}
+2024-12-11 09:34:17,771 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- 1 SQL migrations were detected but not run because they did not follow the filename convention.
+2024-12-11 09:34:17,774 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- Set 'validateMigrationNaming' to true to fail fast and see a list of the invalid file names.
+2024-12-11 09:34:17,785 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 09:34:17,852 [main] INFO  org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory- Schema history table "public"."flyway_schema_history" does not exist yet
+2024-12-11 09:34:17,858 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 0 migrations (execution time 00:00.024s)
+2024-12-11 09:34:17,858 [main] WARN  org.flywaydb.core.internal.command.DbValidate- No migrations found. Are your locations set up correctly?
+2024-12-11 09:34:51,546 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- 1 SQL migrations were detected but not run because they did not follow the filename convention.
+2024-12-11 09:34:51,550 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- Set 'validateMigrationNaming' to true to fail fast and see a list of the invalid file names.
+2024-12-11 09:34:51,560 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 09:34:51,614 [main] INFO  org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory- Schema history table "public"."flyway_schema_history" does not exist yet
+2024-12-11 09:34:51,616 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 0 migrations (execution time 00:00.017s)
+2024-12-11 09:34:51,618 [main] WARN  org.flywaydb.core.internal.command.DbValidate- No migrations found. Are your locations set up correctly?
+2024-12-11 09:34:51,664 [main] INFO  org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory- Creating Schema History table "public"."flyway_schema_history" with baseline ...
+2024-12-11 09:34:51,773 [main] INFO  org.flywaydb.core.internal.command.DbBaseline- Successfully baselined schema with version: 1
+2024-12-11 09:34:51,873 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 09:34:51,880 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-11 09:35:50,661 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- 1 SQL migrations were detected but not run because they did not follow the filename convention.
+2024-12-11 09:35:50,665 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- Set 'validateMigrationNaming' to true to fail fast and see a list of the invalid file names.
+2024-12-11 09:35:50,676 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 09:35:50,768 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 1 migration (execution time 00:00.046s)
+2024-12-11 09:35:50,911 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 09:35:50,916 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-11 09:37:02,007 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- 1 SQL migrations were detected but not run because they did not follow the filename convention.
+2024-12-11 09:37:02,010 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- Set 'validateMigrationNaming' to true to fail fast and see a list of the invalid file names.
+2024-12-11 09:37:02,021 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 09:37:02,115 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 1 migration (execution time 00:00.049s)
+2024-12-11 09:37:02,233 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 09:37:02,239 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-11 09:42:13,998 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- 1 SQL migrations were detected but not run because they did not follow the filename convention.
+2024-12-11 09:42:13,998 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- Set 'validateMigrationNaming' to true to fail fast and see a list of the invalid file names.
+2024-12-11 09:42:14,017 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 09:42:14,118 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 1 migration (execution time 00:00.051s)
+2024-12-11 09:42:14,210 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 09:42:14,213 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-11 09:49:53,931 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- 1 SQL migrations were detected but not run because they did not follow the filename convention.
+2024-12-11 09:49:53,931 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- Set 'validateMigrationNaming' to true to fail fast and see a list of the invalid file names.
+2024-12-11 09:49:53,947 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 09:49:54,042 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 1 migration (execution time 00:00.049s)
+2024-12-11 09:49:54,161 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 09:49:54,163 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-11 10:08:24,988 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 10:08:25,110 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 2 migrations (execution time 00:00.062s)
+2024-12-11 10:08:25,228 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 10:08:25,234 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-11 10:09:37,259 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 10:09:37,383 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 2 migrations (execution time 00:00.059s)
+2024-12-11 10:09:37,502 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 10:09:37,531 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Migrating schema "public" to version "1.1 - create-new-room"
+2024-12-11 10:09:37,583 [main] ERROR org.flywaydb.core.internal.command.DbMigrate- Migration of schema "public" to version "1.1 - create-new-room" failed! Changes successfully rolled back.
+2024-12-11 10:10:13,069 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 10:10:13,190 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 2 migrations (execution time 00:00.060s)
+2024-12-11 10:10:13,311 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 10:10:13,340 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Migrating schema "public" to version "1.1 - create-new-room"
+2024-12-11 10:10:13,385 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Successfully applied 1 migration to schema "public", now at version v1.1 (execution time 00:00.019s)
+2024-12-11 10:13:12,480 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 10:16:43,024 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- 1 SQL migrations were detected but not run because they did not follow the filename convention.
+2024-12-11 10:16:43,028 [main] INFO  org.flywaydb.core.internal.resource.ResourceNameValidator- Set 'validateMigrationNaming' to true to fail fast and see a list of the invalid file names.
+2024-12-11 10:16:43,039 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 10:16:43,152 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 2 migrations (execution time 00:00.064s)
+2024-12-11 10:16:43,285 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1.1
+2024-12-11 10:16:43,291 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Schema "public" is up to date. No migration necessary.
+2024-12-11 10:18:03,988 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 10:18:04,107 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 3 migrations (execution time 00:00.062s)
+2024-12-11 10:18:04,228 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1.1
+2024-12-11 10:18:04,258 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Migrating schema "public" to version "1.2 - create-new-room2"
+2024-12-11 10:18:04,295 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Successfully applied 1 migration to schema "public", now at version v1.2 (execution time 00:00.016s)
+2024-12-11 10:24:38,581 [RMI TCP Connection(2)-127.0.0.1] DEBUG com.heartoftatarstan.listeners.ContextListener- Context initialized
+2024-12-11 10:24:39,108 [http-nio-8080-exec-2] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=1, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 10:24:39,108 [http-nio-8080-exec-2] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=2, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 10:24:39,108 [http-nio-8080-exec-2] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=3, name='Стандарт', capacity=2, price=3000.0}
+2024-12-11 10:24:39,108 [http-nio-8080-exec-2] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=4, name='Семейный', capacity=4, price=5000.0}
+2024-12-11 10:24:39,108 [http-nio-8080-exec-2] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=6, name='Апартаменты', capacity=5, price=10000.0}
+2024-12-11 10:24:39,108 [http-nio-8080-exec-2] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=8, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 10:24:39,108 [http-nio-8080-exec-2] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=9, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 10:24:40,371 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=1, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 10:24:40,372 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=2, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 10:24:40,372 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=3, name='Стандарт', capacity=2, price=3000.0}
+2024-12-11 10:24:40,372 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=4, name='Семейный', capacity=4, price=5000.0}
+2024-12-11 10:24:40,372 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=6, name='Апартаменты', capacity=5, price=10000.0}
+2024-12-11 10:24:40,372 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=8, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 10:24:40,372 [http-nio-8080-exec-1] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=9, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 10:24:40,716 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=1, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 10:24:40,716 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=2, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 10:24:40,716 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=3, name='Стандарт', capacity=2, price=3000.0}
+2024-12-11 10:24:40,717 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=4, name='Семейный', capacity=4, price=5000.0}
+2024-12-11 10:24:40,717 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=6, name='Апартаменты', capacity=5, price=10000.0}
+2024-12-11 10:24:40,717 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=8, name='Эконом', capacity=1, price=1500.0}
+2024-12-11 10:24:40,717 [http-nio-8080-exec-3] INFO  com.heartoftatarstan.servlets.LoginServlet- Room{id=9, name='Эконом+', capacity=2, price=2000.0}
+2024-12-11 10:27:24,399 [main] INFO  org.flywaydb.core.FlywayExecutor- Database: jdbc:postgresql://localhost:5432/heart_of_tatarstan (PostgreSQL 16.3)
+2024-12-11 10:27:24,475 [main] INFO  org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory- Schema history table "public"."flyway_schema_history" does not exist yet
+2024-12-11 10:27:24,482 [main] INFO  org.flywaydb.core.internal.command.DbValidate- Successfully validated 1 migration (execution time 00:00.030s)
+2024-12-11 10:27:24,517 [main] INFO  org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory- Creating Schema History table "public"."flyway_schema_history" with baseline ...
+2024-12-11 10:27:24,597 [main] INFO  org.flywaydb.core.internal.command.DbBaseline- Successfully baselined schema with version: 1
+2024-12-11 10:27:24,694 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Current version of schema "public": 1
+2024-12-11 10:27:24,709 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Migrating schema "public" to version "1.1 - create-new-room"
+2024-12-11 10:27:24,737 [main] INFO  org.flywaydb.core.internal.command.DbMigrate- Successfully applied 1 migration to schema "public", now at version v1.1 (execution time 00:00.008s)
